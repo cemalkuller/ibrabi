@@ -1,0 +1,72 @@
+.dashboard-main{
+    background:#f1f2f7;
+    font-family: 'Rubik', sans-serif;
+}
+.navbar-dark .navbar-nav .nav-link{
+    font-weight: 600;
+    font-size: 13px;
+}
+.table .thead-light th{
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.table-bordered td{
+    font-size: 12px;
+    font-weight: 500;
+    color: #273142;
+    line-height: 60px;
+}
+.table-bordered td a{
+    color: #273142;
+}
+.navbar-expand-sm{
+    padding: 15px;
+}
+.navbar-nav a.dropdown-item{
+    font-size: 12px;
+    font-weight: 500;
+    padding: 10px 0 10px 15px;
+    text-transform: uppercase;
+    letter-spacing: 0.1px;
+}
+.navbar-nav .dropdown-menu{
+    width: 200px;
+    top: 50px;
+}
+.right-navbar .dropdown-menu{
+    left: -70px;
+}
+.navbar-nav .nav-link{
+    text-transform: uppercase;
+}
+.btn-group #btnGroupDrop1{
+    font-size: 12px;
+    font-weight: 500;
+}
+.btn-group .dropdown-item{
+    line-height: 2;
+    font-size: 12px;
+    font-weight: 500;
+}
+.btn-group .dropdown-menu{
+    left: -58px !important;
+}
+.dashboard-title{
+    font-size: 25px;
+    font-weight: 400;
+}
+.dashboard-box{
+    padding: 30px;
+    text-align: center;
+}
+.dashboard-box h2{
+    font-weight: 300;
+    font-size: 20px;
+}
+.right-navbar i{
+    font-size: 18px;
+}
+.shipping-cost-container{
+    display: none;
+}
